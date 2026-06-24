@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="RepoAllocation.Api/RepoAllocation.Api.csproj" />
+  <Project Path="RepoAllocation.Tests/RepoAllocation.Tests.csproj" Id="94e35986-ba15-4322-ac10-72f8554cc497" />
+</Solution>
